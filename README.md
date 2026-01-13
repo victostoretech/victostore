@@ -1,2 +1,2 @@
 # victostore
-Electrical & Electronics Engineering graduate transitioniong into Network Engineering|CCNA in progress|Web3 Enthusiast
+Electrical & Electronics Engineering graduate|Aspiring Network Engineer|CCNA in progress|Web3 Enthusiast
