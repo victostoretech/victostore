@@ -1,2 +1,2 @@
 # victostore
-Portfolio and Learning Journey of Victor__ aspiring Network Engineer.
+Electrical & Electronics Engineering graduate transitioniong into Network Engineering|CCNA in progress|Web3 Enthusiast
