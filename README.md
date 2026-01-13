@@ -8,9 +8,9 @@ I'm currently rebuilding my learning process with structure,consistency,hands on
  * Practicing with cisco packet tracer
 
 # Tools
-packet tracer
-CMD
-CLI
+* packet tracer
+* CMD
+* CLI
 
 # Experience
 * Project Engineer Jireh Technoligies limited-NYSC(1 year)
