@@ -13,6 +13,7 @@ I'm currently rebuilding my learning process with structure,consistency,hands on
 * CLI
 
 # Experience
-* Project Engineer Jireh Technoligies limited-NYSC(1 year)
+* Project Engineer/IT Support Jireh Technoligies limited-NYSC(1 year)
   - Contributed to Total village North Estension cabling project.
-  - Deployed and tested CCTV system for office network and residential.
+  - Deployed and tested CCTV system for research and development purpose and for clients.
+  - Assisted employees to resolve technical issues at course of their job.
